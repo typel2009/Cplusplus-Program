@@ -1,4 +1,5 @@
 [Journal 8.docx](https://github.com/typel2009/Cplusplus-Program/files/6367775/Journal.8.docx)
+
 #include <iostream>
 #include <vector>
 #include <iomanip>
